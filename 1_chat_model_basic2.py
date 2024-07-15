@@ -8,7 +8,6 @@ from langchain_openai import ChatOpenAI
 load_dotenv()
 
 # Create a ChatOpenAI model
-#model = ChatOpenAI(model="gpt-4o")
 model = ChatOpenAI(base_url="http://localhost:11434/v1", model="llama3")
 
 # Invoke the model with a message
