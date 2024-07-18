@@ -1,4 +1,5 @@
-#Repositori didattico Nugh75
+# Repositori didattico Nugh75
+
 Questo è un repositori dove sto fancendo esperimenti sui LLM e il linguaggio di programmazione python. Gli scripto che si trovano sono stati forkati da altri progetti. Di seguito riporto il progetto più importante da cui sto trovando ispirazione
 
 # LangChain Crash Course
