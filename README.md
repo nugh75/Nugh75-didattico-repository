@@ -1,3 +1,6 @@
+#Repositori didattico Nugh75
+Questo è un repositori dove sto fancendo esperimenti sui LLM e il linguaggio di programmazione python. Gli scripto che si trovano sono stati forkati da altri progetti. Di seguito riporto il progetto più importante da cui sto trovando ispirazione
+
 # LangChain Crash Course
 
 Welcome to the LangChain Crash Course repository! This repo contains all the code examples you'll need to follow along with the LangChain Master Class for Beginners video. By the end of this course, you'll know how to use LangChain to create your own AI agents, build RAG chatbots, and automate tasks with AI.
