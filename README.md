@@ -1,6 +1,7 @@
 # Repositorys didattico Nugh75
 
-Questo è un repository dove sto fancendo esperimenti sui LLM e il linguaggio di programmazione python. Gli scripto che si trovano sono stati forkati da altri progetti. Di seguito riporto il progetto più importante da cui sto trovando ispirazione
+Questo è un repository dedicato ai miei esperimenti sui modelli linguistici di grandi dimensioni (LLM) e il linguaggio di programmazione Python. Gli script presenti sono stati derivati da altri progetti tramite fork. Il progetto principale da cui traggo ispirazione è riportato di seguito.
+Aiuti e suggerimenti sono sempre ben accetti e apprezzati per migliorare e far crescere questo progetto.
 
 # LangChain Crash Course
 
