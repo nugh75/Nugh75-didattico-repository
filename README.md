@@ -10,9 +10,6 @@ attualmente il progetto è basato su python 3.10.12 e nel file requirement.txt t
 [ ] programma in grado di fare la scheda di un articolo scientifico
 [ ] chatbot di corso universitario
 
-\end{document}
-
-
 
 # LangChain Crash Course
 
