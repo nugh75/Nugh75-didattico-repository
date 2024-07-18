@@ -5,22 +5,10 @@ Aiuti e suggerimenti sono sempre ben accetti e apprezzati per migliorare e far c
 
 attualmente il progetto è basato su python 3.10.12 e nel file requirement.txt trovate i pacchetti che sto utilizzando per questo progetto.
 
-# Todo-lis
+# Todo-list
 
-\documentclass{article}
-\usepackage{todolist}
-
-\begin{document}
-
-\section*{To-Do List}
-\begin{todolist}
-    \todolist{Preparare la presentazione per il seminario}
-    \todolist[inline]{Scrivere il report di ricerca}
-    \todolist{Rivedere l'articolo per la rivista}
-    \todolist[inline]{Aggiornare il curriculum vitae}
-    \todolist{Pianificare la riunione con il team di ricerca}
-    \todolist{Creare un programma che faccia la scheda di articoli scientifici}
-\end{todolist}
+-[] programma in grado di fare la scheda di un articolo scientifico
+-[] chatbot di corso universitario
 
 \end{document}
 
