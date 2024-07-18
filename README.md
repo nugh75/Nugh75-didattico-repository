@@ -3,6 +3,8 @@
 Questo è un repository dedicato ai miei esperimenti sui modelli linguistici di grandi dimensioni (LLM) e il linguaggio di programmazione Python. Gli script presenti sono stati derivati da altri progetti tramite fork. Il progetto principale da cui traggo ispirazione è riportato di seguito.
 Aiuti e suggerimenti sono sempre ben accetti e apprezzati per migliorare e far crescere questo progetto.
 
+attualmente il progetto è basato su python 3.10.12 e nel file requirement.txt trovate i pacchetti che sto utilizzando per questo progetto.
+
 # LangChain Crash Course
 
 Welcome to the LangChain Crash Course repository! This repo contains all the code examples you'll need to follow along with the LangChain Master Class for Beginners video. By the end of this course, you'll know how to use LangChain to create your own AI agents, build RAG chatbots, and automate tasks with AI.
