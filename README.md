@@ -1,4 +1,4 @@
-# Repositorys didattico Nugh75
+# Repository didattico Nugh75
 
 Questo è un repository dedicato ai miei esperimenti sui modelli linguistici di grandi dimensioni (LLM) e il linguaggio di programmazione Python. Gli script presenti sono stati derivati da altri progetti tramite fork. Il progetto principale da cui traggo ispirazione è riportato di seguito.
 Aiuti e suggerimenti sono sempre ben accetti e apprezzati per migliorare e far crescere questo progetto.
